@@ -1,0 +1,2 @@
+# smtestrepo
+Playing with github
